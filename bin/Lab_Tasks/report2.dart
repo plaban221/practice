@@ -6,6 +6,8 @@ void main() {
     String spaces = ' ' * (rows - i);
     String stars = '*' * (2 * i - 1);
     print(spaces + stars);
+    print("For my repo");
+
   }
 
 }
